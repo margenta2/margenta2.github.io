@@ -1,0 +1,126 @@
+body {
+    background-color: #b5179E;
+    margin: 0;
+    padding: 30px;
+    font-family: 'Original Surfer', cursive;
+    color: #892B64;
+}
+
+h1 {
+    color: rgb(55, 0, 128);
+}
+
+header {
+    background-color: #80FFDB;
+    text-align: center;
+    font-size: 30px;
+    padding: 25px;
+}
+
+header img {
+    margin: 25px;
+}
+
+section {
+    background-color: #80FFDB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    font-size: 22px;
+    text-align: center;
+}
+
+section p {
+    text-align: center;
+    width: 700px;
+    margin: auto;
+}
+
+article {
+    background-color: #80FFDB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+}
+
+article h3 {
+    text-align: center;
+    font-size: 26px;
+}
+
+.activism h4, p {
+    text-align: center;
+    font-size: 22px;
+    margin: auto;
+    padding: 10px;
+    width: 700px;
+}
+
+#hands {
+    width: 300px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+div .animals {
+    text-align: center;
+    width: 500px;
+    font-size: 22px;
+    color: #892B64;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.animals h4, p {
+    text-align: center;
+    font-size: 22px;
+    margin: auto;
+}
+
+.anlink {
+    font-size: 22px;
+    text-decoration: none;
+}
+
+ul li {
+    display: block;
+    margin: 0 auto;
+}
+
+#bridger {
+    width: 300px;
+    height: 300 px;
+    display: block;
+    margin: 0 auto;
+}
+
+.fandom {
+    font-size: 22px;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: #80FFDB;
+    text-align: center;
+    padding: 20px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: #b5179E;
+    color: white;
+}
+
+#email {
+    color: #892B64;
+    text-decoration: none;
+}
